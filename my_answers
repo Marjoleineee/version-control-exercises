@@ -1,4 +1,9 @@
 Welcome for the example
 Does this work
 
+<<<<<<< HEAD
 get more data in here
+=======
+here I add a few lines
+lalalal
+>>>>>>> 87ec17021a6e93314cbd74091198d89dd9385ce3
